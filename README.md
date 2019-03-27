@@ -12,7 +12,7 @@ redshift=8.0         # Mean redshift. Stay within 7 and 10
 
 redshift_width=0.1     # Redshift width. Do not exceed box size of BlueTides i.e. 400 Mpc/h.
 
-survey_length_in_arc_sec=200.    # Length of the survey. Do not exceed box size of BlueTides i.e. 400 Mpc/h. 
+survey_length_in_arc_sec=200.    # Length of the survey in arcsec. Do not exceed box size of BlueTides i.e. 400 Mpc/h. 
 
 survey_aspect_ratio=2.          # Aspect ratio of the survey
 
