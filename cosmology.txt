@@ -1,0 +1,8 @@
+#----------------------Cosmology----------------------------
+om0=0.2814		#Matter content
+oml=0.7186		#Dark energy content
+H0=100.			#Hubble parameter
+h=0.697			#hubble parameter
+c=3e5			#speed of light in km/sec/Mpc h
+#-----------------------------------------------------------	
+
