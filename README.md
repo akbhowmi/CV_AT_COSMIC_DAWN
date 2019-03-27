@@ -1,6 +1,6 @@
 This is a Cosmic variance calulator for high redshift (7<z<10) galaxies.
 
-The calculator is within the ipython notebook "COSMIC_VARIANCE_AT_HIGH_Z.ipynp" 
+The calculator is within the ipython notebook "COSMIC_VARIANCE_AT_HIGH_Z.ipynb" 
 
 Within this, file user can input the parameters of the survey:
 
